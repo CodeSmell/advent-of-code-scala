@@ -1,4 +1,4 @@
-package year2017.day_02
+package year_2017.day_02
 
 import advent.util.ReadFile
 import advent.util.AdventUtil

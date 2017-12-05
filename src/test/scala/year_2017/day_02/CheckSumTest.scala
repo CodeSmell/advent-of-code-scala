@@ -1,4 +1,4 @@
-package year2017.day_02
+package year_2017.day_02
 
 import org.scalatest.FlatSpec
 
